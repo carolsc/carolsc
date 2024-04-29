@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carolsc, nice to meet you!
-- 👀 I’m interested in Fullstack development.
-- 🌱 I’m currently learning Java and JavaScript. 
+- 👀 I’m interested in Data Science.
+- 🌱 I’m currently learning Python. 
 - 📫 How to reach me: 
   - LinkedIn: https://www.linkedin.com/in/carolcorrêa/
 <!---
